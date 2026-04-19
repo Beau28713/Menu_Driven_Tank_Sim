@@ -1,0 +1,48 @@
+Week 8: First complete Python project
+
+Project 1
+
+a menu-driven tank simulator
+
+Menu ideas:
+
+set tank level
+start pump
+stop pump
+view alarms
+save log
+exit
+
+Project 2
+
+Add a CSV Data Logger
+
+save timestamp
+level
+alarms
+pump state
+
+CSV data logger is a program that saves system data into a simple table file over time.
+
+CSV means comma-separated values. It is a plain text file that can be opened in Excel, Google Sheets, or Python.
+
+For your tank simulator, it would save things like:
+
+timestamp — when the reading happened
+level — tank level at that moment
+alarms — any active alarms
+pump state — whether the pump was ON or OFF
+
+timestamp,level,alarms,pump_state
+2026-04-19 07:12:01,45,NONE,OFF
+2026-04-19 07:12:10,78,HIGH,ON
+2026-04-19 07:12:20,92,HIGH-HIGH,OFF
+
+In my simulator, every time the tank changes or every scan cycle, the program could add one new row to the CSV file.
+
+A simple logger would record:
+
+current date/time
+tank level
+active alarm text
+pump ON/OFF
