@@ -1,0 +1,18 @@
+Week 8: First complete Python project
+
+Build:
+
+a menu-driven tank simulator
+
+Menu ideas:
+
+set tank level
+start pump
+stop pump
+view alarms
+save log
+exit
+
+Goal:
+
+finish one small but complete program you can show someone

@@ -1,0 +1,22 @@
+Set tank level to 9.0%
+Level decreased to 8.0%
+Level decreased to 7.0%
+Set tank level to 60.0%
+Level decreased to 59.0%
+Level decreased to 58.0%
+Set tank level to 4.0%
+Level decreased to 3.0%
+Level decreased to 2.0%
+Set tank level to 100.0%
+Level decreased to 99.0%
+Level decreased to 98.0%
+Set tank level to 50.0%
+Level decreased to 49.0%
+Pump started
+Level increased to 54.0%
+Level increased to 59.0%
+Level increased to 64.0%
+Level increased to 69.0%
+Level increased to 74.0%
+Pump stopped
+Level decreased to 73.0%
